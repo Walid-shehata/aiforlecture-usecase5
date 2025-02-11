@@ -1,4 +1,4 @@
-# aiforlecture-usecase5
+# AI_for_Lecture - Use Case5
 To guide the users on how to setup AI for Lecture - Use Case 5 on their AWS Account
 # Read These Steps:
  1- To setup this solution, you need to provision some resources first
