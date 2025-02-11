@@ -7,3 +7,8 @@ To guide the users on how to setup AI for Lecture - Use Case 5 on their AWS Acco
  
  3- reach out to myself walid.ahmed.shehata@gmail.com for any further clarifications
  
+# Prerequisites:
+Please make sure that your AWS account has the following resources available:
+
+1- Amazon Bedrock Claude 3.5 has been enabled in your Target AWS Region
+
